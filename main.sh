@@ -103,7 +103,7 @@ EOF
 
 function start() {
 banner
-printf "\n\e[1;92m Instagram Brute Force Tool\n"
+printf "\n\e[1;92m KruegerCrack\n"
 printf "\e[1;92m Developed by: LIMAX DEV\n\n"
 
 
