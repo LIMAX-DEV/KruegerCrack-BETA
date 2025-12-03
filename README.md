@@ -21,17 +21,6 @@ O uso indevido é de inteira responsabilidade do usuário. Os desenvolvedores n�
 
 ---
 
-## ✨ Funcionalidades
-
-- 🔓 **Ataque por dicionário personalizável** com listas otimizadas para senhas comuns do Instagram.
-- ⚡ **Ataque de força bruta híbrido** com suporte a regras de mascaramento (ex: "nome123").
-- 🧠 **Geração inteligente de senhas** baseada em informações públicas (perfis, datas, palavras-chave).
-- 📁 **Suporte a proxies e rotação de IPs** para evitar bloqueios temporários.
-- 🌙 **Modo "Nightmare"**: execução lenta e furtiva para evitar detecção.
-- 📊 **Relatórios detalhados** de tentativas, taxas de sucesso e análise de segurança.
-
----
-
 ## 🛠️ Instalação
 
 ```bash
